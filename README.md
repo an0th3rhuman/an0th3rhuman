@@ -25,6 +25,6 @@
 
 <img align="left" alt="Raghul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=an0th3rhuman&show_icons=true&hide_border=true" />
 
-[website]: https://raghul.ml
+[website]: https://www.raghul.ml
 [twitter]: https://twitter.com/an0th3rhuman
 [linkedin]: https://linkedin.com/in/raghulmanikandan
