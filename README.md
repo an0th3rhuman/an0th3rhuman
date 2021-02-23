@@ -22,7 +22,7 @@
 
 ## Certification
 
-[<img align="left" alt="OSCP" width="30px" src="https://images.youracclaim.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />
+<img align="left" alt="OSCP" width="30px" src="https://images.youracclaim.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" href="https://www.youracclaim.com/badges/7b560fbc-85d8-4807-af21-61020a278f2b" />
 
 
 ---
