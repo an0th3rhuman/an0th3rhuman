@@ -1,7 +1,7 @@
 ### Hi there, I'm Raghul - aka [an0th3rhuman][website] 👋
 
 ## Security Analyst | Bug bounty hunter
-- 🔭 I’m currently preparing for OSCP certification
+
 - 👯 I’m looking to collaborate with other Bug Bounty Hunters
 
 
@@ -19,6 +19,11 @@
 -- Paytm <br>
 -- Unilever <br>
 -- Portmap <br>
+
+## Certification
+
+[<img align="left" alt="OSCP" width="30px" src="https://images.youracclaim.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />
+
 
 ---
 
